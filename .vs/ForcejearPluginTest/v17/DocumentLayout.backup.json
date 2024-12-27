@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dada\\source\\repos\\ForcejearPluginTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC59CD-02FB-4BC4-BFFB-EE33C2EBF9FF}|ForcejearPluginTest\\ForcejearPluginTest.csproj|C:\\Users\\dada\\source\\repos\\ForcejearPluginTest\\forcejearplugintest\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BC59CD-02FB-4BC4-BFFB-EE33C2EBF9FF}|ForcejearPluginTest\\ForcejearPluginTest.csproj|solutionrelative:forcejearplugintest\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC59CD-02FB-4BC4-BFFB-EE33C2EBF9FF}|ForcejearPluginTest\\ForcejearPluginTest.csproj|C:\\Users\\dada\\source\\repos\\ForcejearPluginTest\\forcejearplugintest\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BC59CD-02FB-4BC4-BFFB-EE33C2EBF9FF}|ForcejearPluginTest\\ForcejearPluginTest.csproj|solutionrelative:forcejearplugintest\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31BC59CD-02FB-4BC4-BFFB-EE33C2EBF9FF}|ForcejearPluginTest\\ForcejearPluginTest.csproj|c:\\users\\dada\\source\\repos\\forcejearplugintest\\forcejearplugintest\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31BC59CD-02FB-4BC4-BFFB-EE33C2EBF9FF}|ForcejearPluginTest\\ForcejearPluginTest.csproj|solutionrelative:forcejearplugintest\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\dada\\source\\repos\\ForcejearPluginTest\\ForcejearPluginTest\\Main.cs",
+              "RelativeDocumentMoniker": "ForcejearPluginTest\\Main.cs",
+              "ToolTip": "C:\\Users\\dada\\source\\repos\\ForcejearPluginTest\\ForcejearPluginTest\\Main.cs",
+              "RelativeToolTip": "ForcejearPluginTest\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:41:25.627Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\dada\\source\\repos\\ForcejearPluginTest\\ForcejearPluginTest\\Command.cs",
+              "RelativeDocumentMoniker": "ForcejearPluginTest\\Command.cs",
+              "ToolTip": "C:\\Users\\dada\\source\\repos\\ForcejearPluginTest\\ForcejearPluginTest\\Command.cs",
+              "RelativeToolTip": "ForcejearPluginTest\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:44:03.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "config.cs",
+              "DocumentMoniker": "C:\\Users\\dada\\source\\repos\\ForcejearPluginTest\\ForcejearPluginTest\\config.cs",
+              "RelativeDocumentMoniker": "ForcejearPluginTest\\config.cs",
+              "ToolTip": "C:\\Users\\dada\\source\\repos\\ForcejearPluginTest\\ForcejearPluginTest\\config.cs",
+              "RelativeToolTip": "ForcejearPluginTest\\config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:42:35.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
