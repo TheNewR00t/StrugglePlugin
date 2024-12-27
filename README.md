@@ -9,7 +9,7 @@ This plugin, created by davilone32, allows the user who is handcuffed to struggl
   # This variable raises or lowers the chances that the user can remove the handcuffs.
   chanze: 80
   # The message that appears when you have failed to remove the handcuffs
-  message_failed: 'Te duelen las manos de tanto CUM'
+  message_failed: 'Failed...'
   # The message he plays when the handcuffs have been removed
   message_works: '¡Manos liberadas! A disfrutar máquina.'
   # The waiting time it takes for the player to release the handcuffs again
