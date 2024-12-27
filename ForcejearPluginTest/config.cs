@@ -11,7 +11,7 @@ namespace ForcejearPluginTest
         [Description("This variable raises or lowers the chances that the user can remove the handcuffs.")]
         public int Chanze { get; set; } = 80;
         [Description("The message that appears when you have failed to remove the handcuffs")]
-        public string MessageFailed { get; set; } = "Te duelen las manos de tanto CUM";
+        public string MessageFailed { get; set; } = "Failed...";
         [Description("The message he plays when the handcuffs have been removed")]
         public string MessageWorks { get; set; } = "¡Manos liberadas! A disfrutar máquina.";
         [Description("The waiting time it takes for the player to release the handcuffs again")]

@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\dada\\source\\repos\\ForcejearPluginTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31BC59CD-02FB-4BC4-BFFB-EE33C2EBF9FF}|ForcejearPluginTest\\ForcejearPluginTest.csproj|C:\\Users\\dada\\source\\repos\\ForcejearPluginTest\\forcejearplugintest\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31BC59CD-02FB-4BC4-BFFB-EE33C2EBF9FF}|ForcejearPluginTest\\ForcejearPluginTest.csproj|c:\\users\\dada\\source\\repos\\forcejearplugintest\\forcejearplugintest\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31BC59CD-02FB-4BC4-BFFB-EE33C2EBF9FF}|ForcejearPluginTest\\ForcejearPluginTest.csproj|solutionrelative:forcejearplugintest\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{31BC59CD-02FB-4BC4-BFFB-EE33C2EBF9FF}|ForcejearPluginTest\\ForcejearPluginTest.csproj|solutionrelative:forcejearplugintest\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31BC59CD-02FB-4BC4-BFFB-EE33C2EBF9FF}|ForcejearPluginTest\\ForcejearPluginTest.csproj|c:\\users\\dada\\source\\repos\\forcejearplugintest\\forcejearplugintest\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31BC59CD-02FB-4BC4-BFFB-EE33C2EBF9FF}|ForcejearPluginTest\\ForcejearPluginTest.csproj|C:\\Users\\dada\\source\\repos\\ForcejearPluginTest\\forcejearplugintest\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31BC59CD-02FB-4BC4-BFFB-EE33C2EBF9FF}|ForcejearPluginTest\\ForcejearPluginTest.csproj|solutionrelative:forcejearplugintest\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,8 +35,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T18:41:25.627Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
               "$type": "Document",
@@ -48,12 +51,7 @@
               "RelativeToolTip": "ForcejearPluginTest\\Command.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T18:44:03.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+              "WhenOpened": "2024-12-22T18:44:03.199Z"
             },
             {
               "$type": "Document",
@@ -63,7 +61,7 @@
               "RelativeDocumentMoniker": "ForcejearPluginTest\\config.cs",
               "ToolTip": "C:\\Users\\dada\\source\\repos\\ForcejearPluginTest\\ForcejearPluginTest\\config.cs",
               "RelativeToolTip": "ForcejearPluginTest\\config.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T18:42:35.507Z",
               "EditorCaption": ""
