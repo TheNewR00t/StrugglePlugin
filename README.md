@@ -3,7 +3,7 @@ This plugin, created by davilone32, allows the user who is handcuffed to struggl
 
 
 # Config
-```
+```CS
   is_enabled: true
   debug: false
   # This variable raises or lowers the chances that the user can remove the handcuffs.
